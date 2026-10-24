@@ -1,1 +1,275 @@
+This document provides the description and evidence mapping for the screenshots included in the `Quick_Screenshots` folder of the **NovaSphere — Cellular Network Performance Intelligence Agent** project.
 
+The screenshots document the end-to-end workflow, including dataset verification, network-performance analysis, visualizations, Amazon Quick Research, independent verification, reconciliation checks, agent creation, agent interactions, and supporting analysis.
+
+---
+
+## 1. Dataset & Initial Setup
+
+### `01_AmazonQuick_Dataset_Verification.png`
+Shows the Amazon Quick dataset verification step used to establish that the cellular network dataset was available for analysis.
+
+### `02_Dataset_Uploaded_Processing.png`
+Shows the dataset upload and processing stage in Amazon Quick.
+
+### `03_Dataset_Uploaded.png`
+Shows the successfully uploaded dataset available for analysis.
+
+### `04A_Full_Dataset_Verification.png`
+Shows the first full-dataset verification output used to validate the dataset before analysis.
+
+### `04B_Full_Dataset_Verification.png`
+Shows additional full-dataset verification evidence supporting the dataset analysis.
+
+### `04C_Full_Dataset_Verification.png`
+Shows the completed full-dataset verification evidence used as a reference for subsequent analysis.
+
+---
+
+## 2. Network Performance Analysis
+
+### `05_Network_Performance.png`
+Shows the network-performance analysis used to examine the overall performance characteristics represented in the dataset.
+
+### `06_Throughput_By_Network.png`
+Shows throughput comparisons across the available network categories.
+
+### `07_Locality_Network_Heatmap.png`
+Shows the locality-by-network heatmap used to examine geographic or locality-level differences across network categories.
+
+### `08_Throughput_Distribution.png`
+Shows the distribution of observed throughput values in the dataset.
+
+### `09_Latency_Distribution.png`
+Shows the distribution of observed latency values used in network-performance analysis.
+
+### `10_Network_Performance_Over_Time.png`
+Shows the analysis of network-performance patterns across the available time dimension.
+
+### `11_NovaSphere_Visual_Analysis.png`
+Shows the consolidated visual analysis used to interpret the key network-performance patterns.
+
+---
+
+## 3. Amazon Quick Research Evidence
+
+### `12_Research_Chat_Result.png`
+Shows the Amazon Quick Research conversation and resulting research output used during the market/network intelligence investigation.
+
+### `13_Research_Report.png`
+Shows the generated research report containing the external research findings.
+
+### `14_Research_Source_Panel.png`
+Shows the source panel supporting the research findings and providing traceability to the referenced information.
+
+---
+
+## 4. Network Type & Performance Verification
+
+### `15A_Network_Type_Record_Verification.png`
+Shows verification of network-type records used in the analysis.
+
+### `15B_Network_Type_Performance_Verification.png`
+Shows verification of network-type performance results.
+
+### `16_Network_Locality_CrossTab.png`
+Shows the network-type and locality cross-tabulation used to examine relationships between these dimensions.
+
+### `17A_Locality_Network_Performance_Verification.png`
+Shows verification of locality-level network-performance results.
+
+### `17B_Locality_Network_Performance_Verification.png`
+Provides additional verification evidence for the locality/network-performance analysis.
+
+### `17C_Locality_Network_Performance_Verification.png`
+Provides further verification of the locality/network-performance findings.
+
+### `18A_Network_Performance_Integrity.png`
+Shows an integrity check of the network-performance analysis.
+
+### `18B_Network_Performance_Integrity.png`
+Shows additional integrity verification for the network-performance results.
+
+### `18C_Network_Performance_Integrity.png`
+Shows further integrity evidence supporting the network-performance analysis.
+
+### `18D_Network_Performance_Integrity.png`
+Shows the final supporting integrity check for the network-performance findings.
+
+---
+
+## 5. Independent Performance Verification
+
+### `19A_Independent_Performance_Verification.png`
+Shows an independent verification step used to cross-check the network-performance findings.
+
+### `19B_Independent_Performance_Verification.png`
+Provides additional independent verification of the reported performance results.
+
+### `19C_Independent_Performance_Verification.png`
+Shows further independent verification supporting the consistency of the analysis.
+
+### `20A_Final_Performance_Reconciliation.png`
+Shows the final reconciliation of performance findings against the verified analytical results.
+
+### `20B_Final_Performance_Reconciliation.png`
+Provides additional evidence from the final performance reconciliation process.
+
+### `20C_Final_Performance_Reconciliation.png`
+Shows the completed performance reconciliation evidence used before finalizing the findings.
+
+---
+
+## 6. Signal Performance Verification
+
+### `21A_Signal_Performance_Integrity.png`
+Shows integrity verification of the signal-performance analysis.
+
+### `21B_Signal_Performance_Integrity.png`
+Provides additional evidence supporting signal-performance data integrity.
+
+### `21C_Signal_Performance_Integrity.png`
+Shows further verification of the signal-performance results.
+
+### `22A_Signal_Correlation_Verification.png`
+Shows verification of the signal-correlation analysis.
+
+### `22B_Signal_Correlation_Verification.png`
+Provides additional evidence supporting the signal-correlation results.
+
+### `22C_Signal_Correlation_Verification.png`
+Shows further verification of the signal-correlation analysis.
+
+### `23A_Signal_Quality_Verification.png`
+Shows verification of signal-quality findings.
+
+### `23B_Signal_Quality_Verification.png`
+Provides additional evidence supporting the signal-quality analysis.
+
+### `23C_Signal_Quality_Verification.png`
+Shows further verification of signal-quality results.
+
+---
+
+## 7. SDR Measurement Verification
+
+### `24A_SDR_Measurement_Verification.png`
+Shows verification of SDR measurement results used in the analysis.
+
+### `24B_SDR_Measurement_Verification.png`
+Provides additional verification evidence for SDR measurements.
+
+### `24C_SDR_Measurement_Verification.png`
+Shows further verification of the SDR measurement analysis.
+
+### `24D_SDR_Measurement_Verification.png`
+Provides additional supporting evidence for SDR measurement verification.
+
+### `24E_SDR_Measurement_Verification.png`
+Shows the final supporting SDR measurement verification.
+
+### `25A_Signal_Final_Reconciliation.png`
+Shows the final reconciliation of signal-related findings.
+
+### `25B_Signal_Final_Reconciliation.png`
+Provides additional evidence from the final signal reconciliation process.
+
+### `25C_Signal_Final_Reconciliation.png`
+Shows further final reconciliation evidence for the signal analysis.
+
+### `25D_Signal_Final_Reconciliation.png`
+Provides additional final reconciliation evidence supporting the signal findings.
+
+### `25E_Signal_Final_Reconciliation.png`
+Shows the completed signal reconciliation evidence used before finalizing the analysis.
+
+---
+
+## 8. Time-Performance Verification
+
+### `26A_Time_Performance_Integrity.png`
+Shows integrity verification for the time-performance analysis.
+
+### `26B_Time_Performance_Integrity.png`
+Provides additional evidence supporting time-performance data integrity.
+
+### `26C_Time_Performance_Integrity.png`
+Shows further integrity verification of the time-performance results.
+
+### `26D_Time_Performance_Verification.png`
+Shows verification of the time-performance findings.
+
+### `27A_Time_Performance_Verification.png`
+Provides additional verification evidence for time-performance analysis.
+
+### `27B_Time_Performance_Verification.png`
+Shows further time-performance verification evidence.
+
+### `27C_Time_Performance_Verification.png`
+Provides additional verification of the time-performance results.
+
+### `27D_Time_Performance_Verification.png`
+Shows the final supporting time-performance verification.
+
+### `28A_Time_Final_Reconciliation.png`
+Shows the final reconciliation of time-related performance findings.
+
+### `28B_Time_Final_Reconciliation.png`
+Provides additional evidence from the time-performance reconciliation.
+
+### `28C_Time_Final_Reconciliation.png`
+Shows further final reconciliation evidence for the time analysis.
+
+### `28D_Time_Final_Reconciliation.png`
+Provides additional final reconciliation evidence.
+
+### `28E_Time_Final_Reconciliation.png`
+Shows the completed time-performance reconciliation evidence.
+
+### `28F_Time_Final_Reconciliation.png`
+Provides additional supporting evidence for the final time-performance reconciliation.
+
+### `28G_Time_Final_Reconciliation.png`
+Shows further final reconciliation evidence used to confirm the time-related findings.
+
+---
+
+## 9. NovaSphere AI Agent
+
+### `29_Agent_Creation_Prompt.png`
+Shows the prompt used to define and create the NovaSphere analysis agent.
+
+### `30_Agent_Config.png`
+Shows the configuration of the NovaSphere agent.
+
+### `31_Agent_Created.png`
+Shows the successfully created NovaSphere agent.
+
+### `32A_Agent_Chat.png`
+Shows an interaction with the NovaSphere agent during analysis.
+
+### `32B_Agent_Chat.png`
+Shows an additional agent interaction supporting the analysis workflow.
+
+### `32C_Agent_Chat.png`
+Shows further agent interaction and generated analytical output.
+
+### `33_Spaces_Created.png`
+Shows the NovaSphere workspace/Space created to organize the project resources and analysis workflow.
+
+### `34_Locality_5G_Share_Correlation.png`
+Shows the locality and 5G-share correlation analysis used as supporting evidence for the NovaSphere network intelligence findings.
+
+---
+
+## Evidence Traceability
+
+The screenshots collectively document the progression from **dataset availability and verification → exploratory analysis → visual analysis → research → independent verification → reconciliation → AI-agent development and interaction**.
+
+Each screenshot is retained as supporting evidence for the corresponding stage of the NovaSphere workflow.
+
+The screenshots should be reviewed together with the final Research Brief, Market Analysis, Research Report, Verification Log, and dataset so that quantitative findings and research conclusions can be traced back to their supporting evidence.
+
+## Important Analytical Boundary
+
+The screenshots provide evidence of the **analysis process and observed dataset signals**. They should not be interpreted independently as proof of conclusions beyond what is explicitly supported by the underlying dataset, research sources, and documented verification process.
